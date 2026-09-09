@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block headernav %}
+  <nav id="header-nav">
+    {% include "partials/nav.html" %}
+  </nav>
+{% endblock headernav %}
+
+{% block main %}
+<main id="main-page">
+  <h1>{{ page.title }}</h1>
+  {{ page.content | safe }}
+</main>
+{% endblock main %}
+
+{% block footernav %}
+{% if current_path is not starting_with(pat="/rdv") %}
+  <div id="footer-button"><a class="button" href="/rdv">Prendre rendez-vous</a></div>
+{% endif %}
+{% endblock footernav %}

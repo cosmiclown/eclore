@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/reset.css">
+  <link rel="stylesheet" href="/style.css">
+  <link rel="icon" type="image/svg+xml" href="/img/eclore.svg" />
+  <link rel="alternate" type="application/atom+xml" href="/atom.xml" />
+  <title>
+    {% if page %}{{ page.title }} • {{ config.title }}
+    {% else %}{{ config.title }} • {{ config.description }}
+    {% endif %}
+  </title>
+  {% if page %}<meta name="description" content="{{ page.description }}">{% endif %}
+</head>
+
+<body>
+  <header>
+    <a href="/" id="header-titlelogo">
+      <div id="header-title">{{ config.title }}</div>
+      <div id="header-logo">๑</div>
+    </a>
+    <div id="header-description">{{ config.description }}</div>
+    {% block headernav %}{% endblock headernav %}
+  </header>
+
+  {% block main %}{% endblock main %}
+  
+  <footer>
+    {% block footernav %}{% endblock footernav %}
+    <div id="footer-legal"><a href="/legal">Mentions légales • CGV • Confidentialité</a></div>
+  </footer>
+</body>
+
+</html>

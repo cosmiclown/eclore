@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=https://unpkg.com/@sveltia/cms/schema/sveltia-cms.json
+
+backend:
+  name: github
+  repo: cosmiclown/eclore
+
+media_folder: /static/img
+public_folder: /img
+
+collections:
+  - name: pages
+    label: Pages
+    label_singular: Page
+    folder: /content
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Body, name: body, widget: markdown }
