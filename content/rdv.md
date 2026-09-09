@@ -25,7 +25,7 @@ Pour tout **renseignement** préalable, vous pouvez me joindre par email (**{% i
   Cal("init", "seance", {origin:"https://app.cal.eu"});
   Cal.config = Cal.config || {};
   Cal.config.forwardQueryParams = true;
-  Cal.ns.seance("inline", {elementOrSelector:"#my-cal-inline-seance", config: {"layout":"month_view","useSlotsViewOnSmallScreen":"true"}, calLink: "ecloretherapie/seance",});
-  Cal.ns.seance("ui", {"hideEventTypeDetails":false,"layout":"month_view"});
+  Cal.ns.seance("inline", {elementOrSelector:"#my-cal-inline-seance", config: {"layout":"month_view","useSlotsViewOnSmallScreen":"true","theme":"light"}, calLink: "ecloretherapie/seance",});
+  Cal.ns.seance("ui", {"theme":"light","hideEventTypeDetails":false,"layout":"month_view"});
 </script>
 <!-- Cal inline embed code ends -->
