@@ -5,7 +5,7 @@ template = "page.html"
 
 Les séances durent environ **une heure**, et ont lieu en **visio** ou par **téléphone**.
 
-Le tarif est de **60€** par séance.
+Le tarif est de **60€** par séance, le paiement se fait par virement après la séance.
 
 La prise de **rendez-vous** se fait via l’outil de  réservation en bas de cette page, et vaut pour acceptation des [Conditions Générales de Vente](/legal#conditions-generales-de-vente).
 
