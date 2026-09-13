@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://ecloretherapie.fr"
+base_url = "https://www.ecloretherapie.fr"
 
 # The site title and description; used in feeds by default.
 title = "Éclore"
@@ -229,8 +229,6 @@ index_format = "elasticlunr_javascript"
 #
 [extra]
 address = "16 rue Jean Jaurès 41800 Montoire-sur-le-Loir"
-email = "leo@ecloretherapie.fr"
-phone = "06.11.07.64.04"
 siret = "849 686 803 00057"
 email1 = "leo"
 email2 = "ecloretherapie"
