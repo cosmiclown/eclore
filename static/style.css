@@ -45,137 +45,6 @@ body {
 
 
 
-/* HEADER *******************************************************************/
-
-header {
-  margin-bottom: 4rem;
-  text-align: center;
-}
-
-#header-titlelogo {
-  color: var(--color3a);
-  font-size: 4.5rem;
-  font-weight: var(--wblack);
-  line-height: 1;
-  alignment-baseline: text-top;
-  display: inline-flex;
-  justify-content: center;
-  align-items: baseline;
-  text-decoration: none;
-  &:hover, &:active, &:focus {
-  color: var(--color3b);
-  }
-  #header-logo {
-    font-size: 8rem;
-    margin-left: 1rem;
-    margin-top: -3rem;
-  }
-}
-
-#header-description {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 0 0.35rem;
-}
-
-#header-nav {
-  margin-top: 0.5rem;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 0.5rem;
-  div {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 0.5rem;
-  }
-  a {
-    display: inline-block;
-    padding: 0.2rem 1rem;
-    color: var(--color0a);
-    background-color: var(--color1a);
-    text-decoration: none;
-    border-radius: 0.25rem;
-    &:hover, &:active, &:focus, &:is([aria-current]) {
-      color: var(--color0b);
-      background-color: var(--color3a);
-    }
-  }
-}
-
-
-
-/* MAIN ***********************************************************************/
-
-main {
-  max-width: 900px;
-  margin-right: auto;
-  margin-left: auto;
-}
-
-#main-index {
-  @media (min-width: 700px) {
-    margin-top: 6rem;
-    margin-bottom: 6rem;
-  }
-  max-width: 1200px;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  gap: 4rem 3rem;
-  justify-content: center;
-  align-items: center;
-  #text-index {
-    max-width: 540px;
-    text-align: justify;
-    display: flex;
-    flex-direction: column;
-    gap: 2rem;
-  }
-  #img-index {
-    img {
-      width: 100%;
-      max-width: 400px;
-    }
-  }
-}
-
-#main-404, #main-404 p {
-  text-align: center;
-}
-
-
-
-/* FOOTER *****************************************************************/
-
-footer {
-  text-align: center;
-  margin-top: 4rem;
-  #footer-legal {
-    font-size: 1rem;
-    a {text-decoration: none;}
-  }
-}
-
-
-
-/* PAGES *****************************************************************/
-
-#my-cal-inline-seance {
-  width:100%;
-  height:100%;
-  overflow:scroll;
-  margin-top: 1rem;
-  margin-bottom: -4rem;
-}
-
-
-
 /* TYPOGRAPHY *****************************************************************/
 
 h1 {
@@ -243,7 +112,7 @@ a {
   }
 }
 
-.button {
+button, .button {
   display: inline-block;
   padding: 0.5rem 1rem;
   margin-bottom: 0.2rem;
@@ -303,4 +172,136 @@ img {
 	  opacity: 0.5;
     font-size: 100%;
   }
+}
+
+
+
+/* HEADER *******************************************************************/
+
+header {
+  margin-bottom: 4rem;
+  text-align: center;
+}
+
+#header-titlelogo {
+  color: var(--color3a);
+  font-size: 4.5rem;
+  font-weight: var(--wblack);
+  line-height: 1;
+  alignment-baseline: text-top;
+  display: inline-flex;
+  justify-content: center;
+  align-items: baseline;
+  text-decoration: none;
+  &:hover, &:active, &:focus {
+  color: var(--color3b);
+  }
+  #header-logo {
+    font-size: 8rem;
+    margin-left: 1rem;
+    margin-top: -3rem;
+  }
+}
+
+#header-description {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0 0.35rem;
+}
+
+#header-nav {
+  margin-top: 0.5rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+  div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem;
+  }
+  a {
+    display: inline-block;
+    padding: 0.2rem 1rem;
+    margin-bottom: 0rem;
+    font-size: 100%;
+    color: var(--color0a);
+    background-color: var(--color1a);
+    text-decoration: none;
+    border-radius: 0.25rem;
+    &:hover, &:active, &:focus, &:is([aria-current]) {
+      color: var(--color0b);
+      background-color: var(--color3a);
+    }
+  }
+}
+
+
+/* MAIN ***********************************************************************/
+
+main {
+  max-width: 900px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#main-index {
+  @media (min-width: 700px) {
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+  }
+  max-width: 1200px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 4rem 3rem;
+  justify-content: center;
+  align-items: center;
+  #text-index {
+    max-width: 540px;
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+  #img-index {
+    img {
+      width: 100%;
+      max-width: 400px;
+    }
+  }
+}
+
+#main-404, #main-404 p {
+  text-align: center;
+}
+
+
+
+/* FOOTER *****************************************************************/
+
+footer {
+  text-align: center;
+  margin-top: 4rem;
+  #footer-legal {
+    font-size: 1rem;
+    a {text-decoration: none;}
+  }
+}
+
+
+
+/* PAGES *****************************************************************/
+
+#my-cal-inline-seance {
+  width:100%;
+  height:100%;
+  overflow:scroll;
+  margin-top: 2rem;
+  margin-bottom: -4rem;
 }

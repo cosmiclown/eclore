@@ -25,7 +25,7 @@ Mis à jour le 01/10/2026
 
 **Modalités de paiement** — Le règlement intervient à l'issue de la séance, sauf accord particulier. Pour les séances en distanciel, le paiement peut être effectué par virement bancaire. Pour les séances en présentiel, le paiement peut être effectué par virement bancaire ou en liquide. Une facture peut être remise au client sur simple demande ou lorsqu'elle est obligatoire.
 
-**Annulation et report** — Le client peut annuler ou reporter sa séance jusqu'à 48 heures avant l'heure prévue. Les séances reportées ou annulées moins de 48h à l'avance, ou non honorées, sont considérées comme dues et leur paiement sera demandé (sauf cas de force majeure). Le prestataire se réserve également la possibilité de reporter une séance en cas de nécessité.
+**Annulation et report** — Le client peut annuler ou reporter sa séance jusqu'à 48 heures avant l'heure prévue. Toute séance reportée ou annulée moins de 48h à l'avance, ou non honorée, sera considérée comme due et son paiement sera demandé (sauf cas de force majeure). Le prestataire se réserve également la possibilité de reporter une séance en cas de nécessité.
 
 **Obligations du client** — Le client s'engage à communiquer des informations exactes lors de la réservation. Il reconnaît participer librement aux séances et rester pleinement responsable de ses décisions personnelles.
 
