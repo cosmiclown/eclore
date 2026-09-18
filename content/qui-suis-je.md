@@ -24,4 +24,4 @@ Par ailleurs, je travaille sur le sujet de l'**agroécologie vivrière** et des 
 >
 >En 2023, j’ai découvert la Thérapie de Reconditionnement de la Douleur, avec laquelle j'ai fait un immense bon en avant. J’ai appris à accueillir différemment mes symptômes, à remettre la vie et la joie au centre, à dépasser progressivement les limites dans lesquelles la maladie m’avait enfermé. En particulier, le sport a été un moteur formidable pour reprendre confiance dans la vitalité de mon corps.
 >
->Aujourd’hui, je suis capable de (re)faire bien des choses qui auparavant m’auraient parues impossibles. Même si quelques symptômes demeurent encore, ils diminuent progressivement, et surtout ne sont plus un obstacle à vivre pleinement et joyeusement ma vie.
+>Aujourd’hui, je suis capable de (re)faire bien des choses qui m’auraient parues impossibles auparavant. Même si quelques symptômes demeurent encore, ils diminuent progressivement, et surtout ne sont plus un obstacle à vivre pleinement et joyeusement ma vie.
