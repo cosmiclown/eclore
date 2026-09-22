@@ -1,11 +1,9 @@
 +++
-title = "Qui suis-je ?"
+title = "Léo Matteudi"
 template = "page.html"
 +++
 
 <div class="img-h1"><img src="/img/leomatteudi.jpg" alt="Léo Matteudi"></div>
-
-Je m'appelle **Léo Matteudi**.
 
 Depuis toujours, j’aime **prendre soin** des autres et **faciliter** les processus humains, qu’ils soient *intérieurs, relationnels ou collectifs.*
 

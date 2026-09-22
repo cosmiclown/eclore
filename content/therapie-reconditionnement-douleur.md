@@ -1,5 +1,5 @@
 +++
-title = "Approche"
+title = "Thérapie de Reconditionnement de la Douleur"
 template = "page.html"
 +++
 

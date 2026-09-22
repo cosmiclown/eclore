@@ -9,7 +9,7 @@ Les séances ont lieu en **visio** et durent environ **une heure**.
 
 Le **tarif** est de **60€** par séance *(paiement par virement après la séance)*.
 
-La **réservation** se fait directement en ligne *(via l'agenda ci-dessous)*, et vaut pour acceptation des [CGV](/legal#conditions-generales-de-vente).
+La **réservation** se fait directement en ligne *(via l'agenda ci-dessous)*, et vaut pour acceptation des [CGV](/mentions-legales#conditions-generales-de-vente).
 
 Pour tout **renseignement** préalable, vous pouvez me joindre par email *({% include "partials/email.html" %})*.
 
