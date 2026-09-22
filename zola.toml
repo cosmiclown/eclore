@@ -3,7 +3,7 @@ base_url = "https://www.ecloretherapie.fr"
 
 # The site title and description; used in feeds by default.
 title = "Éclore"
-description = "Désapprendre la douleur & autres symptômes chroniques"
+description = "Désapprendre douleurs & symptômes chroniques"
 
 # The default language; used in feeds.
 default_language = "fr"
