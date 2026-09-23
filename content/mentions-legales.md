@@ -3,7 +3,7 @@ title = "Mentions légales • CGV • Confidentialité"
 template = "page.html"
 +++
 
-Mis à jour le 01/10/2026
+Version du 01/10/2026
 
 ## Mentions légales
 **Éditeur** — Léo Matteudi, entrepreneur individuel • {% include "partials/email.html" %} • {% include "partials/phone.html" %} • {{ config.extra.address }} • SIRET : {{ config.extra.siret }}
