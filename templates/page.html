@@ -14,7 +14,7 @@
 {% endblock main %}
 
 {% block footernav %}
-{% if current_path is not starting_with(pat="/rdv") %}
+{% if current_path is not starting_with(pat="/prendre-rendez-vous") %}
   <div id="footer-button"><a class="button" href="/prendre-rendez-vous">Prendre rendez-vous</a></div>
 {% endif %}
 {% endblock footernav %}

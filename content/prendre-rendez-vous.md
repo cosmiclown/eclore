@@ -5,13 +5,17 @@ template = "page.html"
 
 <div class="img-h1"><img src="/img/foret.avif"></div>
 
-Les séances ont lieu en **visio** et durent environ **une heure**.
+**Durée** — Les séances durent environ **1 heure**. *Merci de prévoir un peu plus large au cas où.*
 
-Le **tarif** est de **60€** par séance *(paiement par virement après la séance)*.
+**Lieu** — Les séances se déroulent exclusivement par **visioconférence**. *Un lien vous sera fourni, pas besoin d'installer d'application. Merci de vous installer dans un endroit calme et confortable où vous ne risquez pas d'être dérangé·e.*
 
-La **réservation** se fait directement en ligne *(via l'agenda ci-dessous)*, et vaut pour acceptation des [CGV](/mentions-legales#conditions-generales-de-vente).
+**Tarif** — Une séance coûte 60€. *Le paiement a lieu par virement après la séance.*
 
-Pour tout **renseignement** préalable, vous pouvez me joindre par email *({% include "partials/email.html" %})*.
+**Réservation** — La réservation se fait directement en ligne *(via l'agenda ci-dessous)*, et vaut acceptation des [CGV](/mentions-legales#conditions-generales-de-vente).
+
+**Première séance** — Lors de la première séance, nous discuterons en détail de votre histoire et de vos symptômes et je vous présenterai mon approche, afin de déterminer ensemble si elle est adaptée.
+
+**Contact** — Pour tout renseignement préalable, vous pouvez me joindre par email *({% include "partials/email.html" %})*.
 
 <div id="my-cal-inline-seance">
   <script type="text/javascript">
