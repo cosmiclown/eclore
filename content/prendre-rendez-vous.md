@@ -7,7 +7,7 @@ template = "page.html"
 
 **Durée** — Les séances durent environ **1 heure**. *Merci de prévoir un peu plus large au cas où.*
 
-**Lieu** — Les séances se déroulent exclusivement par **visioconférence**. *Un lien vous sera fourni, pas besoin d'installer d'application. Merci de vous installer dans un endroit calme et confortable où vous ne risquez pas d'être dérangé·e.*
+**Lieu** — Les séances se déroulent exclusivement par **visioconférence**. *Un lien vous sera envoyé par email, pas besoin d'installer d'application. Merci de vous installer dans un endroit calme et confortable où vous ne risquez pas d'être dérangé·e.*
 
 **Tarif** — Une séance coûte 60€. *Le paiement a lieu par virement après la séance.*
 

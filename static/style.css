@@ -263,16 +263,22 @@ main {
   justify-content: center;
   align-items: center;
   #text-index {
-    max-width: 540px;
+    max-width: 490px;
     text-align: justify;
     display: flex;
     flex-direction: column;
     gap: 2rem;
+    a {
+      text-decoration: none;
+      &:hover, &:active, &:focus, &:is([aria-current]) {
+      text-decoration: underline;
+      }
+    }
   }
   #img-index {
     img {
       width: 100%;
-      max-width: 400px;
+      max-width: 410px;
     }
   }
 }
