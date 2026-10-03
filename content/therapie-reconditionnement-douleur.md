@@ -77,8 +77,8 @@ C'est en construisant patiemment un cercle vertueux de confiance et de sécurit�
     <label for="title5">Ressources utiles</label>
   <div class="content">
         <ul>
-      <li>Alan Gordon, Déjouer la douleur chronique (le livre de référence)</li>
-      <li>Carl Tétillon, Libérez vous de la douleur chronique (le livre du thérapeute qui m'a accompagné et formé)</li>
+      <li>Alan Gordon, Déjouer la douleur chronique</li>
+      <li>Carl Tétillon, Libérez vous de la douleur chronique</li>
       <li><a href="https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2784694" target="_blank">Étude de Boulder</a> (66% de guérison et 98% de soulagement significatif pour des douleurs de dos chroniques)</li>
       <li>Autres auteurs : John Sarno, Howard Schubiner, Dan Buglio</li>
     </ul>
