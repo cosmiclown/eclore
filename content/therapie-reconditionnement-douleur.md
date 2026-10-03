@@ -12,8 +12,8 @@ Bien que conçue initialement pour traiter les douleurs chroniques, cette théra
 
 Voici une liste (non-exhaustive) de troubles pour lesquels des résultats significatifs ont été observés (allant de l'amélioration substantielle à la guérison totale) : *Douleurs chroniques variées • Fibromyalgie • Migraines • Céphalées de tension • Syndrome de fatigue chronique • Insomnies • Troubles du sommeil • Anxiété • États dépressifs • Maladies infectieuses devenues chroniques (Covid long, Lyme...) • Troubles digestifs • Syndrome de l'intestin irritable • Intolérances alimentaires • Sensibilités chimiques • Électrosensibilité • Acouphènes • Asthme*
 
-Cette thérapie s'adresse particulièrement aux personnes dont les examens médicaux ne montrent pas de cause physique expliquant l'intensité, le nombre ou la persistance de leurs symptômes ; qui ont essayé de nombreuses thérapies sans résultat durable ; dont les médecins peinent à comprendre les maux ou suggèrent une origine psychologique ("c'est dans votre tête").
-
+> Cette thérapie s'adresse particulièrement aux personnes dont les examens médicaux ne montrent pas de cause physique expliquant l'intensité, le nombre ou la persistance de leurs symptômes ; qui ont essayé de nombreuses thérapies sans résultat durable ; dont les médecins peinent à comprendre les maux ou suggèrent une origine psychologique ("c'est dans votre tête").
+>
 > Il est important d'avoir au préalable effectué un bilan médical complet pour écarter toute pathologie structurelle (lésion, infection, cancer...) nécessitant un traitement adapté.
 > 
 > Pour les symptômes ayant une origine physique avérée, cette approche peut tout de même aider à les vivre mieux et à diminuer leur intensité.
