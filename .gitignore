@@ -1,8 +1,5 @@
 # Zola
 public/
 
-# Obsidian
-.obsidian
-
 # MacOS
 .DS_Store

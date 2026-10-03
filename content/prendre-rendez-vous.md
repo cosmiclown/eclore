@@ -11,7 +11,7 @@ template = "page.html"
 
 **Tarif** — Une séance coûte 60€. *Le paiement a lieu par virement après la séance.*
 
-**Réservation** — La réservation se fait directement en ligne *(via l'agenda ci-dessous)*, et vaut acceptation des [CGV](/mentions-legales#conditions-generales-de-vente).
+**Réservation** — La réservation se fait directement en ligne *(via l'agenda ci-dessous)*.
 
 **Première séance** — Lors de la première séance, nous discuterons en détail de votre histoire et de vos symptômes et je vous présenterai mon approche, afin de déterminer ensemble si elle est adaptée.
 

@@ -92,7 +92,8 @@ blockquote {
   color: var(--color3b);
   border-left: 0.25rem solid var(--color3b);
   padding-left: 1rem;
-  h2 {
+  margin-top: 2rem;
+  h2, h3, strong, em {
     color: var(--color3b);
   }
 }
