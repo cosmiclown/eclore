@@ -7,7 +7,7 @@ template = "page.html"
 
 Depuis toujours, j’aime **prendre soin des autres** et faciliter les processus humains, qu’ils soient intérieurs, relationnels ou collectifs.
 
-Au fil du temps, je me suis enraciné dans une **pratique variée de l’accompagnement**, en tant facilitateur de groupes, formateur, intervenant artistique, animateur & directeur de séjours jeunesse… et depuis 2018 comme **psychopraticien**, dans une approche humaniste et intégrative. 
+Au fil du temps, je me suis enraciné dans une **pratique variée de l’accompagnement**, en tant que facilitateur de groupes, formateur, intervenant artistique, animateur & directeur de séjours jeunesse… et depuis 2018 comme **psychopraticien**, dans une approche humaniste et intégrative. 
 
 Aujourd'hui, je me consacre principalement à l'accompagnement des douleurs et autres symptômes chroniques *(ayant été formé à la Thérapie de Reconditionnement de la Douleur par Carl Tétillon en 2026).*
 
