@@ -13,9 +13,9 @@ template = "page.html"
 
 **Réservation** — La réservation se fait directement en ligne *(via l'agenda ci-dessous)*.
 
-**Première séance** — Lors de la première séance, nous discuterons en détail de votre histoire et de vos symptômes et je vous présenterai mon approche, afin de déterminer ensemble si elle est adaptée.
+**Première séance** — Lors de la première séance, nous discuterons en détail de votre histoire et de vos symptômes et je vous présenterai mon approche, afin de déterminer ensemble si elle est adaptée. *Merci de résumer votre situation dans le formulaire de réservation.*
 
-**Contact** — Pour tout renseignement préalable, vous pouvez me joindre par email à *{% include "partials/email.html" %}*
+**Contact** — Pour tout renseignement préalable, vous pouvez me joindre par email à *{% include "partials/contact-email.html" %}*
 
 <div id="my-cal-inline-seance">
   <script type="text/javascript">

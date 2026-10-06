@@ -11,7 +11,7 @@ Bien que conçue initialement pour traiter les douleurs chroniques, cette théra
 Voici une liste (non-exhaustive) de troubles pour lesquels des résultats significatifs ont été observés (allant de l'amélioration substantielle à la guérison totale) : *Douleurs chroniques variées • Fibromyalgie • Migraines • Céphalées de tension • Syndrome de fatigue chronique • Insomnies • Troubles du sommeil • Anxiété • États dépressifs • Maladies infectieuses devenues chroniques (Covid long, Lyme...) • Troubles digestifs • Syndrome de l'intestin irritable • Intolérances alimentaires • Sensibilités chimiques • Électrosensibilité • Acouphènes • Asthme*
 
 <details class="accordion">
-  <summary>Précisions</summary>
+  <summary><h3>Précisions</h3><div class="accordion-button">+</div></summary>
   <div class="accordion-content">
     <p>Cette thérapie s'adresse particulièrement aux personnes dont les examens médicaux ne montrent pas de cause physique expliquant l'intensité, le nombre ou la persistance de leurs symptômes ; qui ont essayé de nombreuses thérapies sans résultat durable ; dont les médecins peinent à comprendre les maux ou suggèrent une origine psychologique ("c'est dans votre tête").</p>
     <p>Il est important d'avoir au préalable effectué un bilan médical complet pour écarter toute pathologie structurelle (lésion, infection, cancer...) nécessitant un traitement adapté.</p>
@@ -27,7 +27,7 @@ Sur la base de cette interprétation erronée, il réagit de manière disproport
 À leur tour, ces symptômes activent en nous de la peur, ce qui conforte le cerveau dans sa mauvaise évaluation de la situation, et nous entraîne ainsi dans un **cercle vicieux sans fin**.
 
 <details class="accordion">
-  <summary>« Neuroplastique » ?</summary>
+  <summary><h3>« Neuroplastique » ?</h3><div class="accordion-button">+</div></summary>
   <div class="accordion-content">
     <p>On parle de douleurs et de symptômes "neuroplastiques" ou "nociplastiques", car ils prennent source non pas dans un dommage physique, mais dans un apprentissage du cerveau.</p>
     <p>Mais cela ne veut pas dire pour autant qu'ils sont imaginaires ou purement psychologiques !</p>
@@ -43,7 +43,7 @@ Il s'agit d'un apprentissage, et un apprentissage se fait par **l'exposition et 
 C'est en construisant patiemment un **cercle vertueux de confiance et de sécurité** que nous pouvons sortir du cercle vicieux des symptômes et de la peur.
 
 <details class="accordion">
-  <summary>Mon accompagnement</summary>
+  <summary><h3>Mon accompagnement</h3><div class="accordion-button">+</div></summary>
   <div class="accordion-content">
     <p>Pratiquant au départ la psychothérapie humaniste, ma posture est douce et contenante, à l'écoute de votre rythme et de votre singularité.</p>
     <p>Mon intention est de vous accompagner sur votre chemin en vous donnant des clés qui vous permettent d'avancer par vous-même.</p>
@@ -62,7 +62,7 @@ Concrètement, lors de la thérapie, les axes suivants peuvent être travaillés
 </ul>
 
 <details class="accordion">
-  <summary>Ressources utiles</summary>
+  <summary><h3>Ressources utiles</h3><div class="accordion-button">+</div></summary>
   <div class="accordion-content">
     <ul>
       <li>Alan Gordon, Déjouer la douleur chronique, 2023</li>
