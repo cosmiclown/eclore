@@ -16,7 +16,7 @@ Par ailleurs, je travaille sur le sujet de l'agroécologie vivrière et des seme
 >## Mon chemin avec la maladie
 >Dès mon enfance, j'ai souffert de divers maux (anxiété, fatigue, migraines, rhume des foins, eczéma...).
 >
->En 2014, j'ai contracté la maladie de Lyme et son lot de symptômes très invalidants (épuisement, douleurs, crises d’angoisse, insomnies, troubles digestifs...). J’ai erré pendant des années, essayant une multitude d'approches thérapeutiques pour me soigner, sans succès ou avec des améliorations seulement fugaces.
+>En 2014, j'ai contracté la maladie de Lyme et son lot de symptômes très invalidants (épuisement, douleurs, crises d’angoisse, insomnies, troubles digestifs...). J’ai erré pendant des années, essayant d'innombrables d'approches thérapeutiques pour me soigner, sans succès ou avec des améliorations seulement fugaces.
 >
 >En 2020, j'ai commencé un long traitement à base de plantes médicinales (avec le naturopathe [Adam Nour](https://www.adam-nour.com)), qui m'a permis de sortir la tête de l’eau et retrouver une partie de mes capacités.
 >
