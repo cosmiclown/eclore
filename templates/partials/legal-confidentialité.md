@@ -1,5 +1,5 @@
 
-**Responsable du traitement** — Le responsable du traitement est Léo Matteudi, entrepreneur individuel (cf. coordonnées dans les <a href=#legal>mentions légales</a>).
+**Responsable du traitement** — Le responsable du traitement est Léo Matteudi, entrepreneur individuel (cf. coordonnées dans les <a href=/mentions-legales>mentions légales</a>).
 
 **Données collectées** — Les données suivantes peuvent être collectées : nom et prénom ; adresse e-mail ; numéro de téléphone ; adresse postale ; date de naissance ; informations nécessaires au suivi administratif, au paiement et à la facturation ; informations nécessaires à l'organisation des prestations ; toute autre information que vous partagez volontairement. Seules les informations pertinentes et nécessaires sont recueillies. Aucune donnéee n'est collectée à votre insu. Les données relatives à votre santé bénéficient d'une protection renforcée au titre du RGPD. 
 

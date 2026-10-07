@@ -1,5 +1,5 @@
 
-**Objet** — Les présentes Conditions Générales de Vente (CGV) régissent les prestations proposées par Léo Matteudi, entrepreneur individuel (cf. coordonnées dans les <a href=#legal>mentions légales</a>). La réservation de prestations vaut acceptation des présentes CGV.
+**Objet** — Les présentes Conditions Générales de Vente (CGV) régissent les prestations proposées par Léo Matteudi, entrepreneur individuel (cf. coordonnées dans les <a href=/mentions-legales>mentions légales</a>). La réservation de prestations vaut acceptation des présentes CGV.
 
 **Nature des prestations** — Les prestations proposées consistent en des séances d'accompagnement individuelles, ayant notamment pour objectif d'accompagner le client dans son expérience de la douleur ou d'autres symptômes chroniques. Le prestataire n'est pas médecin, psychiatre, psychologue ou psychothérapeute, et ne donne pas d'avis médical ni ne réalise d'acte médical (examen, diagnostic, parescription, modification d'un traitement...). L'accompagnement proposé ne se substitue pas à un suivi médical assuré par un professionnel de santé habilité, et ne permet pas d’établir ou d’écarter une cause médicale aux symptômes du client.
 
