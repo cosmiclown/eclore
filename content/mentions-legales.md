@@ -7,21 +7,21 @@ template = "page.html"
 *Mis à jour le 01/10/2026*
 
 <details class="accordion">
-  <summary><h2 id="legal">Mentions légales</h2><div class="accordion-button">+</div></summary>
+  <summary><h2 id="legal">Mentions légales</h2><span class="accordion-button">+</span></summary>
   <div class="accordion-content">
     {% include "partials/legal-mentions.md" %}
   </div>
 </details>
 
 <details class="accordion">
-  <summary><h2 id="cgv">Conditions générales de vente</h2><div class="accordion-button">+</div></summary>
+  <summary><h2 id="cgv">Conditions générales de vente</h2><span class="accordion-button">+</span></summary>
   <div class="accordion-content">
     {% include "partials/legal-cgv.md" %}
   </div>
 </details>
 
 <details class="accordion">
-  <summary><h2 id="confidentialite"">Politique de confidentialité</h2><div class="accordion-button">+</div></summary>
+  <summary><h2 id="confidentialite">Politique de confidentialité</h2><span class="accordion-button">+</span></summary>
   <div class="accordion-content">
     {% include "partials/legal-confidentialité.md" %}
   </div>
