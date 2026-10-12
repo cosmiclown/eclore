@@ -7,15 +7,17 @@
   <link rel="stylesheet" href="/reset.css">
   <link rel="stylesheet" href="/style.css">
   <link rel="icon" type="image/svg+xml" href="/img/eclore.svg" />
-  <link rel="alternate" type="application/atom+xml" href="/atom.xml" />
   <meta name="google-site-verification" content="a7Hvwe8XF2r0yvCEkcZ8fD2S2aI5vZOlTkT5ZRZh8s4" />
   <title>
     {% if page %}{{ page.title }} • {{ config.title }}
     {% else %}{{ config.title }} • {{ config.description }}
     {% endif %}
   </title>
-  {% if page %}<meta name="description" content="{{ page.description }}">{% endif %}
+      {% if page %}<meta name="description" content="{{ page.description }}">
+      {% else %}<meta name="description" content="Psychopraticien spécialisé dans l'accompagnement des douleurs et symptômes chroniques, avec la Thérapie de Reconditionnement de la Douleur">
+      {% endif %}
 </head>
+
 
 <body>
 

@@ -1,5 +1,6 @@
 +++
 title = "Thérapie de Reconditionnement de la Douleur"
+description = "Présentation de la Thérapie de Reconditionnement de la Douleur, une approche développée par Alan Gordon à la suite des travaux pionniers du Dr John Sarno"
 template = "page.html"
 +++
 
@@ -59,7 +60,6 @@ Concrètement, lors de la thérapie, les axes suivants peuvent être travaillés
 - Prendre soin de soi ; identifier et respecter ses besoins et ses limites ; ressentir et exprimer ses émotions
 - Identifier les facteurs et les comportements contribuant à entretenir le problème
 - Prévenir les rechutes, gérer l'apparition de nouveaux symptômes
-</ul>
 
 <details class="accordion">
   <summary><h3>Ressources utiles</h3><div class="accordion-button">+</div></summary>

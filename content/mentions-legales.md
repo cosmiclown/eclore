@@ -1,5 +1,6 @@
 +++
 title = "Mentions légales • CGV • Confidentialité"
+description = "Mentions légales, Conditions générales de vente et Politique de confidentialité"
 template = "page.html"
 +++
 

@@ -1,9 +1,10 @@
 +++
 title = "Prendre rendez-vous"
+description = "Informations et réservations pour des séances d'accompagnement des douleurs et symptômes chroniques avec la Thérapie de Reconditionnement de la Douleur"
 template = "page.html"
 +++
 
-<div class="img-h1"><img src="/img/foret.jpg"></div>
+<div class="img-h1"><img src="/img/foret.jpg" alt="Une photo de soleil couchant dans une forêt en hiver"></div>
 
 **Durée** — Les séances durent environ 1 heure. *Merci de prévoir un peu plus large au cas où.*
 

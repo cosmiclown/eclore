@@ -1,9 +1,10 @@
 +++
 title = "Léo Matteudi"
+description = "Présentation de Léo Matteudi, psychopraticien spécialisé dans l'accompagnement des douleurs et symptômes chroniques, avec la Thérapie de Reconditionnement de la Douleur"
 template = "page.html"
 +++
 
-<div class="img-h1"><img src="/img/leomatteudi.jpg" alt="Léo Matteudi"></div>
+<div class="img-h1"><img src="/img/leomatteudi.jpg" alt="Portrait de Léo Matteudi"></div>
 
 Depuis toujours, j’aime **prendre soin des autres** et faciliter les processus humains, qu’ils soient intérieurs, relationnels ou collectifs.
 
@@ -16,10 +17,10 @@ Par ailleurs, je travaille sur le sujet de l'agroécologie vivrière et des seme
 >## Mon chemin avec la maladie
 >Dès mon enfance, j'ai souffert de divers maux (anxiété, fatigue, migraines, rhume des foins, eczéma...).
 >
->En 2014, j'ai contracté la maladie de Lyme et son lot de symptômes très invalidants (épuisement, douleurs, crises d’angoisse, insomnies, troubles digestifs...). J’ai erré pendant des années, essayant d'innombrables d'approches thérapeutiques pour me soigner, sans succès ou avec des améliorations seulement fugaces.
+>En 2014, j'ai contracté la maladie de Lyme et son lot de symptômes très invalidants (épuisement, douleurs, crises d’angoisse, insomnies, troubles digestifs...). J’ai erré pendant des années, essayant d'innombrables approches thérapeutiques pour me soigner, sans succès ou avec des améliorations seulement fugaces.
 >
 >En 2020, j'ai commencé un long traitement à base de plantes médicinales (avec le naturopathe [Adam Nour](https://www.adam-nour.com)), qui m'a permis de sortir la tête de l’eau et retrouver une partie de mes capacités.
 >
->En 2023, j’ai découvert la Thérapie de Reconditionnement de la Douleur, grâce à laquelle j'ai fait un immense bon en avant (avec l'accompagnement de [Carl Tétillon](https://www.douleur-chronique.net)). J’ai appris à accueillir différemment mes symptômes, à remettre la vie et la joie au centre, à dépasser progressivement les limites dans lesquelles la maladie m’avait enfermé. En particulier, le sport a été un moteur formidable pour reprendre confiance dans la vitalité de mon corps.
+>En 2023, j’ai découvert la Thérapie de Reconditionnement de la Douleur, grâce à laquelle j'ai fait un immense bond en avant (avec l'accompagnement de [Carl Tétillon](https://www.douleur-chronique.net)). J’ai appris à accueillir différemment mes symptômes, à remettre la vie et la joie au centre, à dépasser progressivement les limites dans lesquelles la maladie m’avait enfermé. En particulier, le sport a été un moteur formidable pour reprendre confiance dans la vitalité de mon corps.
 >
 >Aujourd’hui, je (re)fais bien des choses qui auparavant m’auraient paru impossibles. Même si quelques symptômes demeurent encore, ils diminuent progressivement, et surtout ne sont plus un obstacle à vivre pleinement et joyeusement ma vie.
