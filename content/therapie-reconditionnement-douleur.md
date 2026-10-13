@@ -4,7 +4,7 @@ description = "Présentation de la Thérapie de Reconditionnement de la Douleur,
 template = "page.html"
 +++
 
-Je m'appuie principalement sur la **Thérapie de Reconditionnement de la Douleur** *(Pain Reprocessing Therapy ou PRT)*, une approche développée par Alan Gordon à la suite des travaux pionniers du Dr John Sarno.
+Je m'appuie principalement sur la Thérapie de Reconditionnement de la Douleur *(Pain Reprocessing Therapy ou PRT)*, une approche développée par **Alan Gordon** à la suite des travaux pionniers du Dr John Sarno.
 
 ## Indications : pour quels symptômes ?
 Bien que conçue initialement pour traiter les douleurs chroniques, cette thérapie s'avère également efficace pour une multitude d'autres symptômes. Grâce à elle, de nombreuses personnes ont pu trouver un **soulagement durable** après avoir souffert pendant des années ou des décennies.

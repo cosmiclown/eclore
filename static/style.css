@@ -16,11 +16,10 @@
   --wblack: 900;
   --color0a: #ffffff;
   --color0b: #000000;
-  --color1a: #d25b5b;
-  --color2a: #4681bf;
-  --color2b: #679dd7;
+  --color1a: #cc4646;
+  --color2a: #3377c1;
   --color3a: #ecb056;
-  --color3b: #bc8f4b;
+  --color3b: #a67a37;
 }
 
 
@@ -80,11 +79,11 @@ p {
 
 strong {
   font-weight: var(--wblack);
-  color: var(--color2b);
+  color: var(--color2a);
 }
 
 em {
-  color: var(--color2b);
+  color: var(--color2a);
   font-style: italic;
 }
 
