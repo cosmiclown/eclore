@@ -9,7 +9,7 @@ Je m'appuie principalement sur la Thérapie de Reconditionnement de la Douleur *
 ## Indications : pour quels symptômes ?
 Bien que conçue initialement pour traiter les douleurs chroniques, cette thérapie s'avère également efficace pour une multitude d'autres symptômes. Grâce à elle, de nombreuses personnes ont pu trouver un **soulagement durable** après avoir souffert pendant des années ou des décennies.
 
-Voici une liste (non-exhaustive) de troubles pour lesquels des résultats significatifs ont été observés (allant de l'amélioration substantielle à la guérison totale) : *Douleurs chroniques variées • Fibromyalgie • Migraines • Céphalées de tension • Syndrome de fatigue chronique • Insomnies • Troubles du sommeil • Anxiété • États dépressifs • Maladies infectieuses devenues chroniques (Covid long, Lyme...) • Troubles digestifs • Syndrome de l'intestin irritable • Intolérances alimentaires • Sensibilités chimiques • Électrosensibilité • Acouphènes • Asthme*
+Voici une liste (non-exhaustive) de troubles pour lesquels des résultats significatifs ont été observés (allant de l'amélioration substantielle à la guérison totale) : *Douleurs chroniques variées • Fibromyalgie • Migraines • Céphalées de tension • Syndrome de fatigue chronique • Insomnies • Troubles du sommeil • Anxiété • États dépressifs • Symptômes persistants après une infection (Covid long, Lyme...) • Troubles digestifs • Syndrome de l'intestin irritable • Intolérances alimentaires • Sensibilités chimiques • Électrosensibilité • Acouphènes • Asthme*
 
 <details class="accordion">
   <summary><h3>Précisions</h3><span class="accordion-button">+</span></summary>
