@@ -65,9 +65,9 @@ Concrètement, lors de la thérapie, les axes suivants peuvent être travaillés
   <summary><h3>Ressources utiles</h3><span class="accordion-button">+</span></summary>
   <div class="accordion-content">
     <ul>
-      <li>Alan Gordon, Déjouer la douleur chronique, 2023</li>
+      <li>Alan Gordon, Déjouer la douleur chronique, 2024</li>
       <li>Carl Tétillon, Libérez-vous de la douleur chronique, 2025</li>
-      <li><a href="https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2784694" target="_blank">Étude de Boulder</a>, 2021 (66% de guérison pour des  douleurs de dos)</li>
+      <li><a href="https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2784694" target="_blank">Étude de Boulder</a> (66% de guérison pour des  douleurs de dos), 2021</li>
       <li>Autres auteurs : John Sarno, Howard Schubiner, Dan Buglio</li>
     </ul>
   </div>
