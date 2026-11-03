@@ -1,3 +1,4 @@
+Version du 01/10/2026
 
 **Éditeur** — Léo Matteudi, entrepreneur individuel • {% include "partials/contact-email.html" %} • {% include "partials/contact-phone.html" %} • {{ config.extra.address }} • SIRET : {{ config.extra.siret }}
 
