@@ -4,8 +4,6 @@ description = "Mentions légales, Conditions générales de vente et Politique d
 template = "page.html"
 +++
 
-*Mis à jour le 01/10/2026*
-
 <details class="accordion">
   <summary><h2 id="legal">Mentions légales</h2><span class="accordion-button">+</span></summary>
   <div class="accordion-content">
