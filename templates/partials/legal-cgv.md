@@ -1,3 +1,4 @@
+Version du 03/11/2026
 
 **Objet** — Les présentes Conditions Générales de Vente (CGV) régissent les prestations proposées par Léo Matteudi, entrepreneur individuel ({% include "partials/contact-email.html" %} • {% include "partials/contact-phone.html" %} • {{ config.extra.address }} • SIRET : {{ config.extra.siret }}). La réservation de prestations vaut acceptation des présentes CGV.
 
