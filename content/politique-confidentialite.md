@@ -4,7 +4,7 @@ description = "Politique de confidentialité"
 template = "page.html"
 +++
 
-Version du 01/10/2026
+*Version du 01/10/2026*
 
 **Responsable du traitement** — Le responsable du traitement est Léo Matteudi, entrepreneur individuel • {% include "partials/contact-email.html" %} • {% include "partials/contact-phone.html" %} • {{ config.extra.address }} • SIRET : {{ config.extra.siret }}
 

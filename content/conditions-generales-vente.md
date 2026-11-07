@@ -4,7 +4,7 @@ description = "Conditions générales de vente"
 template = "page.html"
 +++
 
-Version du 03/11/2026
+*Version du 03/11/2026*
 
 **Prestataire** — Léo Matteudi, entrepreneur individuel • {% include "partials/contact-email.html" %} • {% include "partials/contact-phone.html" %} • {{ config.extra.address }} • SIRET : {{ config.extra.siret }}
 
