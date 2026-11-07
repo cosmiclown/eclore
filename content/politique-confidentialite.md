@@ -1,6 +1,12 @@
++++
+title = "Politique de confidentialité"
+description = "Politique de confidentialité"
+template = "page.html"
++++
+
 Version du 01/10/2026
 
-**Responsable du traitement** — Le responsable du traitement est Léo Matteudi, entrepreneur individuel ({% include "partials/contact-email.html" %} • {% include "partials/contact-phone.html" %} • {{ config.extra.address }} • SIRET : {{ config.extra.siret }}).
+**Responsable du traitement** — Le responsable du traitement est Léo Matteudi, entrepreneur individuel • {% include "partials/contact-email.html" %} • {% include "partials/contact-phone.html" %} • {{ config.extra.address }} • SIRET : {{ config.extra.siret }}
 
 **Données collectées** — Les données suivantes peuvent être collectées : nom et prénom ; adresse e-mail ; numéro de téléphone ; adresse postale ; date de naissance ; informations nécessaires au suivi administratif, au paiement et à la facturation ; informations nécessaires à l'organisation des prestations ; toute autre information que vous partagez volontairement. Seules les informations pertinentes et nécessaires sont recueillies. Aucune donnéee n'est collectée à votre insu. Les données relatives à votre santé bénéficient d'une protection renforcée au titre du RGPD. 
 
@@ -12,7 +18,7 @@ Version du 01/10/2026
 
 **Durée de conservation** — Les données sont conservées pendant la durée strictement nécessaire aux finalités poursuivies, puis elles sont détruites ou archivées conformément aux obligations légales.
 
-**Vos droits** — Vous disposez des droits suivants : accès ; rectification ; effacement ; limitation ; opposition ; portabilité. Pour exercer ces droits, vous pouvez contacter le responsable du traitement. Afin de protéger la confidentialité des données, une vérification raisonnable de l'identité du demandeur peut être effectuée lorsque cela est nécessaire. Si, après cette prise de contact, vous estimez que vos droits concernant vos données personnelles ne sont pas respectés, vous pouvez adresser une réclamation à la Commission nationale de l'informatique et des libertés (CNIL).
+**Vos droits** — Vous disposez des droits suivants : accès ; rectification ; effacement ; limitation ; opposition ; portabilité. Pour exercer ces droits, vous pouvez contacter le responsable du traitement. Afin de protéger la confidentialité des données, une vérification raisonnable de l'identité du demandeur peut être effectuée lorsque cela est nécessaire. Si, après cette prise de contact, vous estimez que vos droits concernant vos données personnelles ne sont pas respectés, vous pouvez adresser une réclamation à la Commission nationale de l'informatique et des libertés (CNIL).
 
 **Sécurité** — Des mesures raisonnables sont mises en œuvre afin de protéger les données contre tout accès non autorisé. Cependant, aucun dispositif internet ou informatique n'étant totalement sécure, il n'est pas possible de garantir une sécurité absolue.
 

@@ -1,6 +1,14 @@
++++
+title = "Conditions générales de vente"
+description = "Conditions générales de vente"
+template = "page.html"
++++
+
 Version du 03/11/2026
 
-**Objet** — Les présentes Conditions Générales de Vente (CGV) régissent les prestations proposées par Léo Matteudi, entrepreneur individuel ({% include "partials/contact-email.html" %} • {% include "partials/contact-phone.html" %} • {{ config.extra.address }} • SIRET : {{ config.extra.siret }}). La réservation de prestations vaut acceptation des présentes CGV.
+**Prestataire** — Léo Matteudi, entrepreneur individuel • {% include "partials/contact-email.html" %} • {% include "partials/contact-phone.html" %} • {{ config.extra.address }} • SIRET : {{ config.extra.siret }}
+
+**Objet** — Les présentes Conditions générales de vente (CGV) régissent les prestations proposées par le prestataire. La réservation de prestations vaut acceptation des présentes CGV.
 
 **Nature des prestations** — Les prestations proposées consistent en des séances individuelles, ayant notamment pour objectif d'accompagner le client dans son expérience de la douleur ou d'autres symptômes chroniques. Elles ne se substituent pas à un suivi médical assuré par un professionnel de santé habilité, et ne permettent pas d’établir ou d’écarter une cause médicale aux symptômes du client. Le prestataire n'est pas médecin, psychiatre, psychologue ou psychothérapeute, et ne donne pas d'avis médical ni ne réalise d'acte médical (examen, diagnostic, prescription, modification d'un traitement...).
 
@@ -18,6 +26,6 @@ Version du 03/11/2026
 
 **Communication entre les séances** — Les communications entre les séances sont destinés principalement à la gestion pratique des rendez-vous et, lorsque cela est nécessaire, à de brèves communications relatives au contenu des séances. Le prestataire s'efforce de répondre dans les meilleurs délais, mais ne garantit pas une réponse rapide aux messages. En cas de situation urgente, le client doit contacter les services d’urgence ou un professionnel de santé approprié.
 
-**Protection des données personnelles** — Les données personnelles collectées sont utilisées uniquement pour les échanges avec les clients, la réalisation des prestations, l'envoi d'informations, le suivi administratif et les obligations légales. Les séances ne sont pas enregistrées par le prestataire, sauf accord exprès préalable du client et dans un cadre spécifiquement défini. Le traitement est réalisé conformément au Règlement général sur la protection des données (RGPD). Le client peut exercer ses droits d'accès, de rectification, d'effacement, de limitation, d'opposition et de portabilité en contactant le prestataire. Les modalités complètes sont détaillées dans la Politique de confidentialité (accessible plus bas sur cette page).
+**Protection des données personnelles** — Les données personnelles collectées sont utilisées uniquement pour les échanges avec les clients, la réalisation des prestations, l'envoi d'informations, le suivi administratif et les obligations légales. Les séances ne sont pas enregistrées par le prestataire, sauf accord exprès préalable du client et dans un cadre spécifiquement défini. Le traitement est réalisé conformément au Règlement général sur la protection des données (RGPD). Le client peut exercer ses droits d'accès, de rectification, d'effacement, de limitation, d'opposition et de portabilité en contactant le prestataire. Les modalités complètes sont détaillées dans la [Politique de confidentialité](/politique-confidentialite).
 
 **Réclamations et litiges** — Toute réclamation peut être adressée directement au prestataire. En cas de litige, le prestataire et le client s'engagent à rechercher prioritairement une solution amiable. Conformément aux articles L.611-1 et suivants du Code de la consommation, le client consommateur peut recourir gratuitement à un médiateur de la consommation après tentative de résolution amiable du litige : [Société de la Médiation Professionnelle](https://www.mediateur-consommation-smp.fr) (rue Marc Sangnier 33130 Bègles). Les présentes CGV sont soumises au droit français ; tout litige sera, à défaut d'accord amiable, porté devant les juridictions compétentes.
