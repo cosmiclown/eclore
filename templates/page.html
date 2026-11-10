@@ -14,9 +14,7 @@
 {% endblock main %}
 
 {% block footernav %}
-  {% if current_path is not starting_with(pat="/prendre-rendez-vous") %}
     <nav id="footer-nav" class="main-nav">
       {% include "partials/nav.html" %}
     </nav>
-  {% endif %}
 {% endblock footernav %}
