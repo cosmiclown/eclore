@@ -1,0 +1,64 @@
++++
+title = "Ressources sur la Thérapie de Reconditionnement de la Douleur"
+description = "Ressources sur la Thérapie de Reconditionnement de la Douleur"
+template = "page.html"
+
+[extra]
+noindex = true
++++
+
+## Pour commencer
+- [Présentation synthétique](/therapie-reconditionnement-douleur) de la thérapie
+- Livre d'Alan Gordon (créateur de l'approche) : Déjouer la douleur chronique, 2024
+
+<details class="accordion">
+    <summary><h3>Courte vidéo sur la douleur neuroplastique, par Alan Gordon</h3><span class="accordion-button">+</span></summary>
+    <div class="accordion-content">
+      <video width="100%" controls>
+  <source src="/rsc/video-douleur-neuroplastique.mp4" type="video/mp4">
+    </video>
+    </div>
+</details>
+
+<details class="accordion">
+    <summary><h3>Critères pour repérer les symptômes neuroplastiques</h3><span class="accordion-button">+</span></summary>
+    <div class="accordion-content">
+        <p>Mes symptômes sont-ils apparus pendant ou après une période émotionnellement intense (stress, séparation, décès, trop de charges sur les épaules...) ?</p>
+        <p>Mes symptômes sont-ils apparus sans blessure, lésion, maladie préalable ? Les médecins m’ont-ils dit qu’il n’y avait pas de cause physique ou structurelle expliquant l’intensité, le nombre ou la persistance de mes symptômes ? Ai-je eu des diagnostics différents ? Des doutes ont-ils été émis par les médecins ?</p>
+        <p>Mes symptômes sont-ils incohérents ? Y a t-il des variations d’intensités régulières et sans raisons apparentes ? Y a-t-il des exceptions (réduction importante ou disparition totale ponctuelle si activité agréable, concentration importante, ou moins de stress) ?</p>
+        <p>Ai-je un grand nombre de symptômes (douleurs à différents endroits du corps ; autres symptômes tels que problèmes digestifs, fatigue chronique, problèmes cognitifs ou sommeil…) ?</p>
+        <p>Mes symptômes se propagent-ils (sur plusieurs mois ou années) ou se déplacent-ils (au cours d’une même journée, semaine ou mois) ?</p>
+        <p>Mes symptômes sont-ils déclenchés/augmentés par le stress ou d’autres émotions difficiles comme la colère ou la tristesse ? Est-ce que je réagis à mes symptômes avec peur, catastrophisme, tristesse ou agacement ?</p>
+        <p>Mes symptômes sont-ils déclenchés par certains types d’activités ou d’éléments (activités physiques, météo, conduite, posture assise, vêtements...) ? Ai-je mis en place des comportements d’évitement ?</p>
+        <p>Mes symptômes arrivent-ils parfois plusieurs heures après une activité ?</p>
+        <p>Ai-je fait face à des situations de danger ou un manque de sécurité pendant l’enfance (violence psychologique ou physique, harcèlement, séparations, manque affectif, chocs émotionnels...) ? </p>
+        <p>Est-ce que je me considère perfectionniste, consciencieux(se), anxieux(se) ? Ai-je des difficultés à poser des limites, à dire non, à faire passer mes besoins en priorité ?</p>
+    </div>
+</details>
+
+<details class="accordion">
+    <summary><h3>La douleur neuroplastique, par Carl Tétillon</h3><span class="accordion-button">+</span></summary>
+    <div class="accordion-content">
+        <p>« La douleur est un système d'alarme dont le rôle est de préserver l’intégrité physique. Lorsque vous touchez une plaque très chaude, des récepteurs spécifiques situés sur votre main vont envoyer un signal électrique jusqu'au cerveau. Le cerveau va traiter ce signal, comprendre que la situation est dangereuse, et produire une douleur que vous ressentirez au niveau de la main. Cette douleur vous indiquera qu’il faut retirer votre main de la plaque pour éviter d’aggraver la blessure, et vous permettra de ne pas reproduire ce comportement dangereux à l’avenir. Plus généralement, la douleur vous indique de vous mettre au repos pour que le mécanisme de guérison prenne place. En principe, lorsque la guérison est atteinte, la douleur a disparu.</p>
+        <p>La douleur résulte donc toujours d’un danger perçu par le cerveau, et est toujours produite par le cerveau. Toutefois, chez une personne souffrant de douleur chronique, le cerveau est en état d’hypervigilance et perçoit de façon excessive les dangers. Plus précisément, le cerveau interprète des signaux ordinaires, tels que les sensations corporelles et les émotions, comme des signaux de danger et déclenche en réponse une douleur. Les voies neuronales de la douleur sont donc activées de façon inappropriée, car le danger perçu n’est pas réel. Dans ce cas, les signaux de danger s’activent même en l'absence de dommages structurels. De nombreuses recherches ont montré que les voies neuronales apprises dans le cerveau provoquent de nombreuses formes de douleur chronique. Ce type de douleur résultant d’une fausse alarme déclenchée par le cerveau est appelée douleur neuroplastique.</p>
+        <p>La neuroplasticité est la capacité du cerveau à s'adapter et à se modifier en permanence. Quand enfant, nous apprenons à faire du vélo, des voies neuronales (ou réseaux de neurones) spécifiques se créent dans le cerveau. Ces voies permettent de garder la mémoire du comportement appris. Ainsi, lorsque nous remontons sur un vélo à l'âge adulte après de longues années, il est assez facile de pédaler sans tomber. D'où l’expression : “le vélo, ça ne s’oublie pas!”. En réalité, des voies neuronales se créent à chaque fois que l’on apprend un nouveau comportement, et c’est également le cas dans le cadre de la douleur. Lorsque nous avons une expérience de douleur, des voies neuronales se créent dans le cerveau, afin de faciliter le traitement de la prochaine expérience. Chez de nombreuses personnes, ces voies sont inactives tant qu’aucune lésion/blessure n’est présente, et la douleur est activée de façon appropriée lorsqu’une telle lésion/blessure apparaît. Au contraire, chez la majorité des personnes souffrant de douleur chronique, ces voies neuronales sont actives malgré l’absence de lésion/blessure. La douleur a été apprise par le cerveau, qui l’active de façon inappropriée. Cet apprentissage résulte notamment de la peur que l’on génère autour de la douleur, la peur d’un problème d’origine structurelle et la peur de la douleur elle-même, qui renforcent le danger perçu par le cerveau et augmente la douleur. Et plus on fait l’expérience de la douleur, plus ces voies neuronales “s’ancrent”. La douleur devient ainsi une habitude, comme marcher ou faire du vélo peuvent l’être.</p>
+        <p>Voici une excellente analogie pour expliquer la douleur neuroplastique. Imaginez que vous portiez une aide auditive. Lorsque quelqu’un vous parle à un volume de 2 sur 10, si vous augmentez le volume de cette aide auditive, vous l'entendrez à un volume de 7 sur 10. Pourtant la personne parle bien à un volume de 2 sur 10. C'est la même chose avec la douleur des voies neurales. Il y a un bouton de volume dans notre cerveau. Et si le bouton de volume est augmenté, nous pouvons interpréter les sensations comme plus fortes qu'elles ne le sont. Par exemple, si je suis assis, mes muscles du dos travaillent et envoient des informations électriques à un niveau de 2 sur 10 à mon cerveau, qui les interprète avec précision, et ne produit pas de douleur. Chez une personne souffrant d’une douleur chronique au dos, les muscles du dos travaillent de la même façon et les mêmes informations électriques à 2 sur 10 sont envoyées au cerveau. Mais le cerveau les interprète comme des sensations à 7 sur 10, des sensations dangereuses, et crée en réponse une douleur. Et ce qui détermine si le bouton de volume est monté ou baissé, c'est le niveau de danger que votre cerveau perçoit. Tous les patients souffrant de douleur chronique ont la même peur : “Il doit se passer quelque chose dans mon corps qui cause cela”. Et lorsque le cerveau croit que le corps est endommagé, il réagit par la douleur.</p>
+        <p>Ainsi, le traitement consiste à enseigner au cerveau que les signaux qu'il reçoit du corps sont réellement sans danger. Je dis souvent aux personnes qu’elles n’ont pas un problème de douleur, mais un problème de peur. Lorsqu’on est réellement convaincu que notre douleur n’a pas d’origine physique, mais résulte simplement d’une fausse alarme du cerveau, et que l’on se débarrasse de la peur de la douleur car on est convaincu qu’elle n’est absolument pas dangereuse pour nous, alors la douleur diminue. De la même façon, le cerveau hypervigilant peut considérer que les émotions sont dangereuses, et créer de la douleur en réponse à des émotions. Il est aussi possible de faire un travail pour réapprendre au cerveau que les émotions ne sont pas dangereuses et changer les voies neuronales dans le cerveau. »</p>
+    </div>
+</details>
+ 
+## Pour aller plus loin
+*Pour les vidéos en anglais, il est possible d’activer des sous-titres en français.*
+
+- Livre de Carl Tétillon (mon formateur) : Libérez-vous de la douleur chronique, 2025
+- Autres auteurs (principalement en anglais) : John Sarno, Howard Schubiner, Dan Buglio
+- [Série de courtes vidéos sur la douleur chronique](https://youtube.com/playlist?list=PLsJVYZbo6uWrKc57MDUL1vGciEGnPYrV9&si=7ZtrQUi35Lh6RPf1), par Howard Schubiner
+- Chaînes YouTube de [Carl Tétillon](https://www.youtube.com/@carltetillon-douleurchronique) et [Dan Buglio](https://www.youtube.com/@PainFreeYou) *(avec notamment des témoignages de guérison)*
+
+<details class="accordion">
+    <summary><h3>Études scientifiques</h3><span class="accordion-button">+</span></summary>
+    <div class="accordion-content">
+        <p><a href="https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2784694">Effect of Pain Reprocessing Therapy vs Placebo and Usual Care for Patients With Chronic Back Pain, A Randomized Clinical Trial, 2021</a> — Cet essai clinique randomisé avec imagerie cérébrale fonctionnelle (IRMf) a testé si la PRT, visant à modifier les croyances des patients sur les causes et la valeur menaçante de l douleur, procure un soulagement substantiel et durable de la lombalgie chronique primaire 66% des patients du groupe PRT étaient sans douleur ou presque après 4 semaines d'intervention (vs 20% groupe placebo, 10% soins habituels), et les résultats se maintenaient à 1 an. L'IRMf longitudinale a montré une réduction des réponses cérébrales à la douleur évoquée dans le cortex cingulaire antérieur et le cortex préfrontal antérieur, ainsi qu'une connectivité accrue entre ces régions et le cortex somatosensoriel primaire. Conclusion : un traitement psychologique centré sur le changement des croyances concernant les causes et la valeur menaçante de la douleur peut procurer un soulagement substantiel et durable.</p>
+        <p><a href="https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2837160">Pain Reprocessing Therapy vs Placebo and Usual Care for Patients With Chronic Back Pain, 5-Year Follow-Up of a Randomized Clinical Trial, 2025</a> — Plus de la moitié des patients ayant reçu la PRT rapportaient être presque ou complètement sans douleur 5 ans plus tard, surpassant le placebo et les soins habituels. Cette analyse secondaire de l'essai clinique randomisé fournit des données de suivi à 5 ans pour les patients atteints de lombalgie chronique traités par PRT, placebo ou soins habituels. Les auteurs concluent que la PRT peut procurer une récupération durable de la lombalgie chronique pour certains patients, contrairement aux traitements psychologiques classiques qui visent simplement une meilleure gestion de la douleur.</p>
+    </div>
+</details>
