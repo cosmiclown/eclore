@@ -9,16 +9,8 @@ noindex = true
 
 ## Pour commencer
 - [Présentation synthétique](/therapie-reconditionnement-douleur) de la thérapie
+- [Courte vidéo](https://peertube.mesnumeriques.fr/videos/embed/8ZYKv31E2g7LpPJfHbfGTi?title=0&peertubeLink=0) sur la douleur neuroplastique
 - Livre d'Alan Gordon (créateur de l'approche) : Déjouer la douleur chronique, 2024
-
-<details class="accordion">
-    <summary><h3>Courte vidéo sur la douleur neuroplastique, par Alan Gordon</h3><span class="accordion-button">+</span></summary>
-    <div class="accordion-content">
-      <video width="100%" controls>
-  <source src="/rsc/video-douleur-neuroplastique.mp4" type="video/mp4">
-    </video>
-    </div>
-</details>
 
 <details class="accordion">
     <summary><h3>Critères pour repérer les symptômes neuroplastiques</h3><span class="accordion-button">+</span></summary>
@@ -52,8 +44,8 @@ noindex = true
 
 - Livre de Carl Tétillon (mon formateur) : Libérez-vous de la douleur chronique, 2025
 - Autres auteurs (principalement en anglais) : John Sarno, Howard Schubiner, Dan Buglio
-- [Série de courtes vidéos sur la douleur chronique](https://youtube.com/playlist?list=PLsJVYZbo6uWrKc57MDUL1vGciEGnPYrV9&si=7ZtrQUi35Lh6RPf1), par Howard Schubiner
-- Chaînes YouTube de [Carl Tétillon](https://www.youtube.com/@carltetillon-douleurchronique) et [Dan Buglio](https://www.youtube.com/@PainFreeYou) *(avec notamment des témoignages de guérison)*
+- [Série de courtes vidéos](https://youtube.com/playlist?list=PLsJVYZbo6uWrKc57MDUL1vGciEGnPYrV9&si=7ZtrQUi35Lh6RPf1) sur la douleur neuroplastique, par Howard Schubiner
+- Chaînes YouTube de [Carl Tétillon](https://www.youtube.com/@carltetillon-douleurchronique) et [Dan Buglio](https://www.youtube.com/@PainFreeYou) (avec notamment des témoignages de guérison)
 
 <details class="accordion">
     <summary><h3>Études scientifiques</h3><span class="accordion-button">+</span></summary>
