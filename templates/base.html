@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="/reset.css">
     <link rel="stylesheet" href="/style.css">
     <link rel="icon" type="image/svg+xml" href="/img/eclore.svg">
-    {% if page %}<title>{{ page.title }} • {{ config.title }}</title>{% else %}<title>{{ config.title }} • {{ config.description }}<title>{% endif %}
+    {% if page %}<title>{{ page.title }} • {{ config.title }}</title>{% else %}<title>{{ config.title }} • {{ config.description }}</title>{% endif %}
     {% if page %}<meta name="description" content="{{ page.description }}">{% else %}<meta name="description" content="Psychopraticien spécialisé dans l'accompagnement des douleurs et symptômes chroniques, avec la Thérapie de Reconditionnement de la Douleur">{% endif %}
     <meta name="google-site-verification" content="a7Hvwe8XF2r0yvCEkcZ8fD2S2aI5vZOlTkT5ZRZh8s4">
     {% if page %}{% if page.extra.noindex %}<meta name="robots" content="noindex">{% endif %}{% endif %}
