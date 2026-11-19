@@ -6,19 +6,21 @@ template = "page.html"
 
 Je m'appuie principalement sur la Thérapie de Reconditionnement de la Douleur *(Pain Reprocessing Therapy ou PRT)*, une approche développée par **Alan Gordon** à la suite des travaux pionniers du Dr John Sarno.
 
+
 ## Indications : pour quels symptômes ?
 Bien que conçue initialement pour traiter les douleurs chroniques, cette thérapie s'avère également efficace pour une multitude d'autres symptômes. Grâce à elle, de nombreuses personnes ont pu trouver un **soulagement durable** après avoir souffert pendant des années ou des décennies.
 
 Voici une liste (non-exhaustive) de troubles pour lesquels des résultats significatifs ont été observés (allant de l'amélioration substantielle à la guérison totale) : *Douleurs chroniques variées • Fibromyalgie • Migraines • Céphalées de tension • Syndrome de fatigue chronique • Insomnies • Troubles du sommeil • Anxiété • États dépressifs • Symptômes persistants après une infection (Covid long, Lyme...) • Troubles digestifs • Syndrome de l'intestin irritable • Intolérances alimentaires • Sensibilités chimiques • Électrosensibilité • Acouphènes • Asthme*
 
-<details class="accordion">
-  <summary><h3>Précisions</h3><span class="accordion-button">+</span></summary>
-  <div class="accordion-content">
-    <p>Cette thérapie s'adresse particulièrement aux personnes dont les examens médicaux ne montrent pas de cause physique expliquant l'intensité, le nombre ou la persistance de leurs symptômes ; qui ont essayé de nombreuses thérapies sans résultat durable ; dont les médecins peinent à comprendre les maux ou suggèrent une origine psychologique ("c'est dans votre tête").</p>
-    <p>Il est important d'avoir au préalable effectué un bilan médical complet pour écarter toute pathologie structurelle (lésion, infection, cancer...) nécessitant un traitement adapté.</p>
-    <p>Pour les symptômes ayant une origine physique avérée, cette approche peut tout de même aider à les vivre mieux et à diminuer leur intensité.</p>
-  </div>
-</details>
+
+{% <accordion title="Précisions"> %}
+Cette thérapie s'adresse particulièrement aux personnes dont les examens médicaux ne montrent pas de cause physique expliquant l'intensité, le nombre ou la persistance de leurs symptômes ; qui ont essayé de nombreuses thérapies sans résultat durable ; dont les médecins peinent à comprendre les maux ou suggèrent une origine psychologique ("c'est dans votre tête").
+
+Il est important d'avoir au préalable effectué un bilan médical complet pour écarter toute pathologie structurelle (lésion, infection, cancer...) nécessitant un traitement adapté.
+
+Pour les symptômes ayant une origine physique avérée, cette approche peut tout de même aider à les vivre mieux et à diminuer leur intensité.
+{% </accordion> %}
+
 
 ## Le problème : un cerveau en état d'alerte
 Suite à une période de vie stressante, un évènement traumatique, une blessure, une maladie... notre cerveau peut rester figé dans un **état d'alerte et d'hypervigilance**. Il continue à percevoir du danger là où il n'y en a plus, en interprétant comme problématiques des sensations physiques ou des signaux émotionnels normaux.
@@ -27,14 +29,14 @@ Sur la base de cette interprétation erronée, il réagit de manière disproport
 
 À leur tour, ces symptômes activent en nous de la peur, ce qui conforte le cerveau dans sa mauvaise évaluation de la situation, et nous entraîne ainsi dans un **cercle vicieux sans fin**.
 
-<details class="accordion">
-  <summary><h3>« Neuroplastique » ?</h3><span class="accordion-button">+</span></summary>
-  <div class="accordion-content">
-    <p>On parle de douleurs et de symptômes "neuroplastiques" ou "nociplastiques", car ils prennent source non pas dans un dommage physique, mais dans un apprentissage du cerveau.</p>
-    <p>Mais cela ne veut pas dire pour autant qu'ils sont imaginaires ou purement psychologiques !</p>
-    <p>Et la bonne nouvelle, c'est que ce que le cerveau a appris, il peut le désapprendre :)</p>
-  </div>
-</details>
+{% <accordion title="« Neuroplastique » ?"> %}
+On parle de douleurs et de symptômes "neuroplastiques" ou "nociplastiques", car ils prennent source non pas dans un dommage physique, mais dans un apprentissage du cerveau.
+
+Mais cela ne veut pas dire pour autant qu'ils sont imaginaires ou purement psychologiques !
+
+Et la bonne nouvelle, c'est que ce que le cerveau a appris, il peut le désapprendre :)
+{% </accordion> %}
+
 
 ## La solution : (ré)apprendre la sécurité
 L'objectif de la thérapie est de **rééduquer notre cerveau** en lui faisant comprendre que nous sommes à présent en sécurité, afin qu'il puisse réajuster sa perception du danger et arrêter de surréagir.
@@ -43,13 +45,12 @@ Il s'agit d'un apprentissage, et un apprentissage se fait par **l'exposition et 
 
 C'est en construisant patiemment un **cercle vertueux de confiance et de sécurité** que nous pouvons sortir du cercle vicieux des symptômes et de la peur.
 
-<details class="accordion">
-  <summary><h3>Mon accompagnement</h3><span class="accordion-button">+</span></summary>
-  <div class="accordion-content">
-    <p>Pratiquant au départ la psychothérapie humaniste, ma posture est douce et contenante, à l'écoute de votre rythme et de votre singularité.</p>
-    <p>Mon intention est de vous accompagner sur votre chemin en vous donnant des clés qui vous permettent d'avancer par vous-même.</p>
-  </div>
-</details>
+{% <accordion title="Mon accompagnement"> %}
+Pratiquant au départ la psychothérapie humaniste, ma posture est douce et contenante, à l'écoute de votre rythme et de votre singularité.
+
+Mon intention est de vous accompagner sur votre chemin en vous donnant des clés qui vous permettent d'avancer par vous-même.
+{% </accordion> %}
+
 
 ## Axes principaux de la thérapie
 Concrètement, lors de la thérapie, les axes suivants peuvent être travaillés *(selon le besoin)* :
@@ -61,14 +62,9 @@ Concrètement, lors de la thérapie, les axes suivants peuvent être travaillés
 - Identifier les facteurs et les comportements contribuant à entretenir le problème
 - Prévenir les rechutes, gérer l'apparition de nouveaux symptômes
 
-<details class="accordion">
-  <summary><h3>Ressources utiles</h3><span class="accordion-button">+</span></summary>
-  <div class="accordion-content">
-    <ul>
-      <li>Alan Gordon, Déjouer la douleur chronique, 2024</li>
-      <li>Carl Tétillon, Libérez-vous de la douleur chronique, 2025</li>
-      <li><a href="https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2784694" target="_blank">Étude de Boulder</a> (66% de guérison pour des  douleurs de dos), 2021</li>
-      <li>Autres auteurs : John Sarno, Howard Schubiner, Dan Buglio</li>
-    </ul>
-  </div>
-</details>
+{% <accordion title="Ressources utiles"> %}
+- Alan Gordon, Déjouer la douleur chronique, 2024
+- Carl Tétillon, Libérez-vous de la douleur chronique, 2025
+- [Étude de Boulder](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2784694), (66% de guérison pour des  douleurs de dos), 2021
+- Autres auteurs : John Sarno, Howard Schubiner, Dan Buglio
+{% </accordion> %}

@@ -1,0 +1,8 @@
+{% component accordion(title: string) -%}
+<details class="accordion">
+<summary><h3>{{ title }}</h3><span class="accordion-button">+</span></summary>
+<div class="accordion-content">
+{{ body | markdown | safe }}
+</div>
+</details>
+{%- endcomponent %}
